@@ -1,13 +1,15 @@
-* khoanguyendata.github.io
 # 📊 Data Analyst Portfolio - Nguyễn Tuấn Khoa  
-Chào mừng đến với portfolio của tôi! Tôi là một Data Analyst với niềm đam mê khám phá dữ liệu và tạo ra những insight có giá trị.
+Welcome to my portfolio! I am a Data Analyst with a passion for exploring data and generating valuable insights.
+## 🏆Project.
 
-## 🏆 Dự án nổi bật.
+### 1️⃣ Web Scraping Project: Best-Selling Phones on The Gioi Di Dong
+📌 **Description**: Collect and clean data from The Gioi Di Dong website on the best-selling phones across all brands,
+and gain insights into consumer trends and featured products.
 
-### 1️⃣ [Tên dự án 1](projects/project_1/)  
-📌 **Mô tả**: (Tóm tắt mục tiêu và kết quả của dự án)  
-🛠 **Kỹ năng sử dụng**: Python, SQL, Tableau  
+🛠 **Tool**: Python, Power BI 
+
 📂 **Dữ liệu**: [Dataset](projects/project_1/dataset.csv)  
+
 📊 **Báo cáo**: [Xem báo cáo](projects/project_1/report.pdf)  
 
 ### 2️⃣ [Tên dự án 2](projects/project_2/)  
